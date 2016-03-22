@@ -10,11 +10,11 @@ Link to the [project](http://www.hangzh.com/Reflectance.html) and [paper](http:/
 If you use the code for related research, please cite our paper:
   
   @article{zhang2015reflectance,
-    title={Reflectance Hashing for Material Recognition},
-    author={Zhang, Hang and Dana, Kristin and Nishino, Ko},
-    journal={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-    pages={3071--3080},
-    year={2015}
+      title={Reflectance Hashing for Material Recognition},
+      author={Zhang, Hang and Dana, Kristin and Nishino, Ko},
+      journal={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+      pages={3071--3080},
+      year={2015}
   }
 
 ### The codes
