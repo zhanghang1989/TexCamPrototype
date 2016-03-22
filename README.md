@@ -20,4 +20,4 @@ If you use the code for related research, please cite our paper:
 ### The codes
 
 * "Camera1394.cpp" handles with the comunication with the camera using SDK and VXM motor controller using serial port. 
-* "MFC_GUI" provides a simple GUI which for this imaging program. 
+* "MFC_GUI" foler provides a GUI for the imaging program. 
