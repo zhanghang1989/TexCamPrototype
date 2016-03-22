@@ -1,0 +1,3 @@
+[submodule "XMV"]
+	path = XMV
+	url = https://github.com/zhanghang1989/XMV.git
