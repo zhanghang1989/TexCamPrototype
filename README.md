@@ -1,5 +1,4 @@
 ## TexCam Prototype (An Imaging Software)
-created by Hang Zhang, Kristin Dana and Ko Nishino
 
 ### Introduction
 
